@@ -9,10 +9,10 @@ At IEEE-VIT, we innovate, transforming mere ideas to inspired projects. Our crea
 </p>
 
 <h3 align="center">
-For the month of October 🎃🕯
+For the month of November 🐪🌞
 </h3>
 
 <p align="center">
-We place great emphasis on open source contribution, so with spooky season right around the corner, we've decided to partake in the <a href="https://hacktoberfest.digitalocean.com" target="_blank"> Hacktoberfest </a> throughout the month of October! <a href="https://youtu.be/3iTFnNU3AYg" target="_blank"> 👻 </a>
+We've got some exciting stuff in the pipeline, so stay tuned! 🕵️
 </p>
 

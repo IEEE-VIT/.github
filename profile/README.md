@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/Hacktoberfest_banner.png">
+  <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/november-banner.png">
 </p>
 
 <p align="center">

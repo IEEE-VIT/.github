@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/IEEE-VIT/.github/blob/November21/profile/november-banner.png">
+  <img src="https://github.com/IEEE-VIT/.github/blob/dec21/profile/without_gifts.png">
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@ At IEEE-VIT, we innovate, transforming mere ideas to inspired projects. Our crea
 </p>
 
 <h3 align="center">
-For the month of November 🐪🌞
+For the month of December ☃️
 </h3>
 
 <p align="center">
-We've got some exciting stuff in the pipeline, so stay tuned! 🕵️
+Huh, This is gonna be a long month! While we get past it and surprise you with something, how about you checkout our projects and surprise us with something instead? <a href="https://youtu.be/baFtq5RudKk">🎁</a>
 </p>
 

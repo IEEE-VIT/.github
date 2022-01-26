@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/IEEE-VIT/.github/blob/dec21/profile/without_gifts.png">
+  <img src="https://github.com/IEEE-VIT/.github/blob/Feb22/profile/IEEE%20Space.png">
 </p>
 
 <p align="center">

@@ -13,6 +13,6 @@ For the month of March 🌿
 </h3>
 
 <p align="center">
-It's the season of new beginnings! Welcome to our new recruits, we can't wait to meet you in person! <a href="https://youtu.be/4TWbQ0nlASg">🧑‍💻🧑‍🎨🧑🏻‍💼<\a>
+It's the season of new beginnings! Welcome to our new recruits, we can't wait to meet you in person! <a href="https://youtu.be/4TWbQ0nlASg">🧑‍💻🧑‍🎨🧑🏻‍💼</a>
 </p>
 

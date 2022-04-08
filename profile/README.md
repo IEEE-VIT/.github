@@ -13,6 +13,6 @@ For the month of April 🍦
 </h3>
 
 <p align="center">
-We've been working together, brainstorming and bringing ideas to life. Can you guess where? <a href="https://youtu.be/5Eqb_-j3FDA">🌌🧑‍🔬</a>
+We've been working together, brainstorming and bringing ideas to life. Can you guess where? <a href="https://youtu.be/5Eqb_-j3FDA">🌌🧪</a>
 </p>
 

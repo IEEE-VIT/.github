@@ -13,6 +13,6 @@ For the month of May 🍉
 </h3>
 
 <p align="center">
-May the force be with you and help you ace your exams! <a href="https://youtu.be/Iq6g_4AwUWs">🎯</a>
+May the force be with you <a href = "https://www.instagram.com/p/BEFeq8JNCGU/?utm_source=ig_web_copy_link">🪐</a><a href = "https://www.instagram.com/p/BD4AiekNCMj/?utm_source=ig_web_copy_link">💫</a><a href="https://youtu.be/Iq6g_4AwUWs">🎯</a>. We've got some new projects in the works, so stick around for updates!
 </p>
 

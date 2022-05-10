@@ -9,10 +9,10 @@ At IEEE-VIT, we innovate, transforming mere ideas to inspired projects. Our crea
 </p>
 
 <h3 align="center">
-For the month of April 🍦
+For the month of May 🚀
 </h3>
 
 <p align="center">
-We've been working together, brainstorming and bringing ideas to life. Can you guess where? <a href="https://youtu.be/5Eqb_-j3FDA">🌌🧪</a>
+May the force be with you <a href = "https://www.instagram.com/p/BEFeq8JNCGU/?utm_source=ig_web_copy_link">🪐</a><a href = "https://www.instagram.com/p/BD4AiekNCMj/?utm_source=ig_web_copy_link">💫</a><a href="https://youtu.be/Iq6g_4AwUWs">🛸</a> </br>We've got some new projects in the works, so stick around for updates!
 </p>
 

@@ -9,10 +9,10 @@ At IEEE-VIT, we innovate, transforming mere ideas to inspired projects. Our crea
 </p>
 
 <h3 align="center">
-For the month of July <a href="https://youtu.be/rxGiCjewhEs">🍃</a>
+For the month of October <a href="https://youtu.be/TN2J7ezPGT0">🛸</a>
 </h3>
 
 <p align="center">
-We're heading back to school this month! More opportunities for brainstorming and collaboration mean only one thing - exciting new projects!<a href="https://youtu.be/ms3m8AtaKO4">🏈</a>🧑‍🚀
+Hacktoberfest is upon us yet again! And with it, spooky season! Our two favorite things! We've got a multitude of projects covering an assortment of domains coming your way over the next few days for Hacktoberfest, so stay tuned! <a href="https://youtu.be/h1trO_Js2CA">👾</a>🧑‍🚀
 </p>
 

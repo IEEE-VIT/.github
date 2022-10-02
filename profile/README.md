@@ -18,8 +18,6 @@ IEEE VIT is a community comprising the most persevering of student developers, d
 We 💙 open source development. If you're here, chances are you do too! Contribute to our <a href="https://github.com/orgs/IEEE-VIT/repositories">projects</a>!
 </p>
 
-<br>
-
 -----------------------------------------------------------------
 
 ![](https://media.giphy.com/media/BCCe9qPPsMgigHfApz/giphy.gif)

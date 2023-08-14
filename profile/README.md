@@ -25,7 +25,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 </p>
 
 
-We've been working together, brainstorming and bringing ideas to life. Let's start contributing to our exciting projects!!<a href="https://youtu.be/nn_0zPAfyo8">🪐</a>
+We've been working together, brainstorming and bringing ideas to life. Go ahead and start contributing to our exciting projects!!<a href="https://youtu.be/nn_0zPAfyo8">🪐</a>
 <br><br>
 Showcase your problem-solving skills in a global 24-hour Programming Challenge, <b>IEEEXtreme</b>!
 <br>

@@ -20,9 +20,16 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 
-![](https://media.giphy.com/media/BCCe9qPPsMgigHfApz/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9odzU4NTlib2x5cHA0bWEwcXJ6M3Fxano5OXd4eDVyZ2dxem5tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AC4ncZp0zV7seSfU9y/giphy.gif" alt="Center Aligned Image" />
+</p>
 
-Hacktoberfest is upon us yet again! And with it, spooky season! Our two favorite things! We've got a multitude of projects covering an assortment of domains coming your way over the next few days for Hacktoberfest, so stay tuned! <a href="https://youtu.be/h1trO_Js2CA">👾</a>🧑‍🚀
+
+We've been working together, brainstorming and bringing ideas to life. Go ahead and start contributing to our exciting projects!!<a href="https://youtu.be/nn_0zPAfyo8">🪐</a>
+<br><br>
+Showcase your problem-solving skills in a global 24-hour Programming Challenge, <b>IEEEXtreme</b>!
+<br>
+For more information check <a href="https://ieeextreme.org/">this</a> out!!✨🧑‍🚀
 
 <p align="center">
 

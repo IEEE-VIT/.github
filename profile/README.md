@@ -21,17 +21,22 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 -----------------------------------------------------------------
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9odzU4NTlib2x5cHA0bWEwcXJ6M3Fxano5OXd4eDVyZ2dxem5tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AC4ncZp0zV7seSfU9y/giphy.gif" alt="Center Aligned Image" />
-</p>
+  <img width = 450px src="https://github.com/IEEE-VIT/.github/blob/main/profile/source-sprint.png" alt="Source Sprint" />
+</p >
 
-
-We've been working together, brainstorming and bringing ideas to life. Go ahead and start contributing to our exciting projects!!<a href="https://youtu.be/nn_0zPAfyo8">🪐</a>
-<br><br>
-Showcase your problem-solving skills in a global 24-hour Programming Challenge, <b>IEEEXtreme</b>!
+<div align ="center">
+Gear up for HacktoberFest 🎃 with <b>Source Sprint</b> - an event aimed at introducing the world of open source to all. 🧑🏻‍💻
 <br>
-For more information check <a href="https://ieeextreme.org/">this</a> out!!✨🧑‍🚀
+A detailed hands-on session on Git and GitHub, followed by an exciting competiton where you can actively contribute to various projects! 🏆
+<br>
+Source Sprint is the perfect stepping stone in your journey to become an open source contributor!
 
-<p align="center">
+<br>
+<br>
+<p>Register <a href="https://gravitas.vit.ac.in/eventdetails?event=evt_dc77e0d61e85495086b1a679ddb83490&image=https://i.imgur.com/G3FK1fc.png">now</a>!
+<br>
+Make it a September to remember! <a href="https://www.youtube.com/watch?v=NU9JoFKlaZ0">👾</a> </p>
+<br><br>
+</div>
 
-</p>
 

@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/IEEE-VIT/.github/blob/Feb22/profile/IEEE%20Space.png">
+  <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/IEEE%20Space.png">
 </p>
 
 <p align="center">

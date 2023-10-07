@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/IEEE-VIT/.github/blob/Feb22/profile/IEEE%20Space.png">
+  <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/IEEE%20Space.png">
 </p>
 
 <p align="center">
@@ -19,24 +19,16 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 </p>
 
 -----------------------------------------------------------------
-
-<p align="center">
-  <img width = 450px src="https://github.com/IEEE-VIT/.github/blob/main/profile/source-sprint.png" alt="Source Sprint" />
-</p >
-
-<div align ="center">
-Gear up for HacktoberFest 🎃 with <b>Source Sprint</b> - an event aimed at introducing the world of open source to all. 🧑🏻‍💻
-<br>
-A detailed hands-on session on Git and GitHub, followed by an exciting competiton where you can actively contribute to various projects! 🏆
-<br>
-Source Sprint is the perfect stepping stone in your journey to become an open source contributor!
-
-<br>
-<br>
-<p>Register <a href="https://gravitas.vit.ac.in/eventdetails?event=evt_dc77e0d61e85495086b1a679ddb83490&image=https://i.imgur.com/G3FK1fc.png">now</a>!
-<br>
-Make it a September to remember! <a href="https://www.youtube.com/watch?v=NU9JoFKlaZ0">👾</a> </p>
-<br><br>
+<div align="center">
+  <img src ="https://media.giphy.com/media/eB1lUn1J1Cwoefiy7A/giphy.gif">
+  <br>
+  <br>
+  <b>Hacktoberfest</b> is upon us yet again! And with it, spooky season! Our two favorite things! We've got a multitude of projects covering an assortment of domains coming your way over the next few days for       
+  Hacktoberfest, so stay tuned! <a href="https://www.youtube.com/watch?v=CeWLSQSe6B8">🎃</a>🧑‍🚀
 </div>
+
+
+
+
 
 

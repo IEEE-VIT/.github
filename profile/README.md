@@ -25,7 +25,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
   <br>
   <b>It's the month of gratitude! 🫶</b> 
   <br>Let's use this opportunity to give back to the open-source community! 
-  <br>Contribute to our plethora of projects in a varity of domains <a href="https://www.youtube.com/watch?v=8SbUC-UaAxE" style="text-decoration:none">🦃</a> 🍁
+  <br>Contribute to our plethora of projects in a variety of domains <a href="https://www.youtube.com/watch?v=8SbUC-UaAxE" style="text-decoration:none">🦃</a> 🍁
 </div>
 
 

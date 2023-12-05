@@ -20,7 +20,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUxYTM3enUyOWIyYWE3N3gzNGJidnloZXM2empxMmUxd3huaGNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6azf9EOU4MauMzta1/giphy.gif">
+  <img src ="https://media.giphy.com/media/10ZlYZwdw2tpWo/giphy.gif">
   <br>
   <br>
   <b>'Tis the season to be jolly! ☃️</b> 

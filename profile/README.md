@@ -23,9 +23,9 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
   <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUxYTM3enUyOWIyYWE3N3gzNGJidnloZXM2empxMmUxd3huaGNwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6azf9EOU4MauMzta1/giphy.gif">
   <br>
   <br>
-  <b>It's the month of gratitude! 🫶</b> 
+  <b>'Tis the season to be jolly! ☃️</b> 
   <br>Let's use this opportunity to give back to the open-source community! 
-  <br>Contribute to our plethora of projects in a variety of domains <a href="https://www.youtube.com/watch?v=8SbUC-UaAxE" style="text-decoration:none">🦃</a> 🍁
+  <br>Contribute to our plethora of projects in a variety of domains <a href="https://www.youtube.com/watch?v=24u3NoPvgMw" style="text-decoration:none">🎅</a> 🎄
 </div>
 
 

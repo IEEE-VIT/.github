@@ -20,7 +20,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src ="https://github.com/varun10sudhir/.github/blob/main/profile/ReadMeDecMeme.png">
+  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeDecMeme.png">
   <br>
   <br>
   <b>'Tis the season to be jolly! ☃️</b> 

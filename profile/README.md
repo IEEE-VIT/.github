@@ -20,12 +20,13 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeDecMeme.png">
+  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeJanMeme.png">
   <br>
   <br>
-  <b>'Tis the season to be jolly! ☃️</b> 
-  <br>Let's use this opportunity to give back to the open-source community! 
-  <br>Contribute to our plethora of projects in a variety of domains <a href="https://www.youtube.com/watch?v=24u3NoPvgMw" style="text-decoration:none">🎅</a> 🎄
+  <b>'New Year New Resolution! 🔥</b> 
+  <br>If the key to her ❤ is your Git contribution
+IEEE is here for you💪
+  <br>IEEE offers a plethora of projects from various disciplines waiting to be solved<a href="https://www.youtube.com/watch?v=24u3NoPvgMw" style="text-decoration:none">🥳</a>
 </div>
 
 

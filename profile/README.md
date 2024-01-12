@@ -20,11 +20,11 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeJanMeme.jpeg">
+  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeJanMeme.jpg">
   <br>
   <br>
   <b>'New Year New Resolution! 🔥</b> 
-  <br>Git remembers the past, but 2024 is your blank canvas! Kick off the year with open-source vibes alongside IEEE 🚀💻
+  <br>Start the new year with open source vibes alongside IEEE 🚀💻
   <br>IEEE offers a plethora of projects from various disciplines waiting to be solved<a href="https://www.youtube.com/watch?v=24u3NoPvgMw" style="text-decoration:none">🥳</a>
 </div>
 

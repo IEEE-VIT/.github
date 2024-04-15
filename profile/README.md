@@ -20,10 +20,12 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeFebMeme.jpg">
+  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeAprilMeme.jpg">
   <br>
   <br>
-  <b>Love is in the Code 🖤🤍🖤</b> 
-  <br>Dont let your relationship with projects become a git mess! Let IEEE-VIT guide you to a commit-worthy relationship.
+Summer vibes are in full swing, and so are we!
+  <br>New Members, New Beginnings! A hearty welcome to our latest additions! 🎉
+  <br>Whether you're a coding enthusiast or an artistic talent we're thrilled to have you join our community! 🧑‍💻🧑‍🎨🧑🏻‍💼
+  <br>
   <br>IEEE offers a plethora of projects from various disciplines waiting to be solved<a href="https://www.youtube.com/watch?v=EzcCz5mI5Mc" style="text-decoration:none">🥳</a>
 </div>

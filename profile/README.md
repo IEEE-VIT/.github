@@ -20,7 +20,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeFebMeme.jpg">
+  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/reading-other-peoples-code.png">
   <br>
   <br>
   <b>Fall into Code! 🍂✨</b> 

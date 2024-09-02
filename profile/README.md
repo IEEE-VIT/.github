@@ -20,7 +20,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center"><div align="center">
-  <img src ="https://github.com/ascendantaditya/.github/blob/main/profile/bsod.jpeg">
+  <img src ="https://github.com/ascendantaditya/.github/blob/main/profile/bsod.jpg">
   <br>
   <br>
   <b>Fall into Code! 🍂✨</b> 

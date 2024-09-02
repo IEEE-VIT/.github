@@ -1,5 +1,5 @@
 
-# This is IEEE-VIT.
+# This is IEEE-VIT.🚀
 
 
 
@@ -19,11 +19,11 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 </p>
 
 -----------------------------------------------------------------
-<div align="center">
-  <img src ="https://github.com/IEEE-VIT/.github/blob/main/profile/ReadMeFebMeme.jpg">
+<div align="center"><div align="center">
+  <img src ="https://github.com/ascendantaditya/.github/blob/main/profile/bsod.jpeg">
   <br>
   <br>
-  <b>Love is in the Code 🖤🤍🖤</b> 
-  <br>Dont let your relationship with projects become a git mess! Let IEEE-VIT guide you to a commit-worthy relationship.
-  <br>IEEE offers a plethora of projects from various disciplines waiting to be solved<a href="https://www.youtube.com/watch?v=EzcCz5mI5Mc" style="text-decoration:none">🥳</a>
-</div>
+  <b>Fall into Code! 🍂✨</b> 
+  <br>Don’t let your projects fall into the autumn leaves of neglect! Let IEEE-VIT help you harvest your coding potential🍁
+  <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=Eo-KmOd3i7s" style="text-decoration:none" target="_blank">🥳</a>
+</div>  

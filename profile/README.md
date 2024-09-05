@@ -16,10 +16,10 @@ IEEE VIT is a community comprising the most persevering of student developers, d
 We 💙 open source development. If you're here, chances are you do too! Contribute to our <a href="https://github.com/orgs/IEEE-VIT/repositories">projects</a>!
 </p>
 
----
+
 
 <div align="center">
-  <img src="https://github.com/ascendantaditya/.github/blob/main/profile/thematrix.jpg">
+  <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/linuxbsod.jpeg" width="650">
   <br>
   <br>
   <b>Fall into Code! 🍂✨</b>

@@ -20,7 +20,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center"><div align="center">
-  <img src ="https://github.com/raptor7197w/.github/blob/main/profile/bsod.jpg">
+  <img src ="https://github.com/raptor7197/.github/blob/main/profile/bsod.jpg">
   <br>
   <br>
   <b>Fall into Code! 🍂✨</b> 

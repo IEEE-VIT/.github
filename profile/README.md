@@ -26,7 +26,6 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
   <b>Fall into Code! 🍂✨</b>
 <br>Don’t let your projects fall into the autumn leaves of neglect! Let IEEE-VIT help you harvest your coding potential🍁
 <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch 
-<a href="https://www.youtube.com/watch?v=Eo-KmOd3i7s" style="text-decoration:none; display: inline-block; vertical-align: middle;" target="_blank">🥳</a>
-</div>
+<a href="https://www.youtube.com/watch?v=Eo-KmOd3i7s" style="text-decoration: none; display: inline-block; vertical-align: middle; content: '';" target="_blank">🥳</a>
 
 

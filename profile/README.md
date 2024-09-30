@@ -17,7 +17,7 @@ We 🧡 open source development, and if you're here, you probably do too! Jump i
 </p>
 
 <div align="center">
-<img src="https://github.com/IEEE-VIT/.github/blob/main/profile/october.jpg" width="425" height="425">
+<img src="https://github.com/IEEE-VIT/.github/blob/main/profile/october.png" width="425" height="425">
 <br>
 <br>
 <b>Code Like There's No Tomorrow! 🍂👻</b>

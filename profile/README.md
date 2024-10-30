@@ -27,5 +27,5 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 <b>🦃 November's Nerd Fest 🚀</b>
 <br>As the leaves fall and the world prepares for winter, IEEE VIT stays hot with innovation! 🍂🔥
-<br>Don't just be thankful for technology—be part of its evolution! Check out our exciting projects and contribute your genius to the mix. Let's gobble up some bugs and feast on features! 🦃💻
+<br>Don't just be thankful for technology—be part of its evolution! 🦃💻
 <br>Click here to jump into the fray: <a href="https://github.com/orgs/IEEE-VIT/repositories" style="text-decoration:none" target="_blank">Join the Feast of Innovation 🥧</a>

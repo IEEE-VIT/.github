@@ -1,4 +1,3 @@
-
 # This is IEEE-VIT.🚀
 
 
@@ -23,7 +22,10 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
   <img src ="https://github.com/raptor7197/.github/blob/main/profile/image.png">
   <br>
   <br>
-  <b>Fall into Code! 🍂✨</b> 
-  <br>Don’t let your projects fall into the autumn leaves of neglect! Let IEEE-VIT help you harvest your coding potential🍁
-  <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=Eo-KmOd3i7s" style="text-decoration: none" target="_blank">🥳</a>
+  <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=4fqwVBuunxY" style="text-decoration:none" target="_blank">🥳</a>
 </div>  
+
+<b>🦃 November's Nerd Fest 🚀</b>
+<br>As the leaves fall and the world prepares for winter, IEEE VIT stays hot with innovation! 🍂🔥
+<br>Don't just be thankful for technology—be part of its evolution! Check out our exciting projects and contribute your genius to the mix. Let's gobble up some bugs and feast on features! 🦃💻
+<br>Click here to jump into the fray: <a href="https://github.com/orgs/IEEE-VIT/repositories" style="text-decoration:none" target="_blank">Join the Feast of Innovation 🥧</a>

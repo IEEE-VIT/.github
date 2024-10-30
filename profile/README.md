@@ -19,7 +19,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center"><div align="center">
-  <img src ="https://github.com/raptor7197/.github/blob/main/profile/image.png">
+  <img src ="https://github.com/raptor7197/.github/blob/Readme_Update/profile/image.png">
   <br>
   <br>
   <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=4fqwVBuunxY" style="text-decoration:none" target="_blank">🥳</a>
@@ -29,5 +29,6 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 <br>
 <br>
 <br>As the leaves fall and the world prepares for winter, IEEE VIT stays hot with innovation! 🍂🔥
+<br>
 <br>"Don’t just thank technology—join the evolution! After all, even your toaster wants to be smarter! 🚀💻😂"
-<br>Click here to jump into the fray: <a href="https://github.com/orgs/IEEE-VIT/repositories" style="text-decoration:none" target="_blank">Join the Feast of Innovation 🥧</a>
+<br>Click here to jump into the fray: <a href="https://github.com/orgs/IEEE-VIT/repositories" style="text-decoration:none" target="_blank">Start your Winter-Arc of coding 🥧</a>

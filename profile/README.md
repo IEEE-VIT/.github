@@ -19,7 +19,7 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center"><div align="center">
-  <img src ="https://github.com/raptor7197/.github/blob/Readme_Update/profile/image.png">
+  <img src ="https://github.com/raptor7197/.github/blob/main/profile/image.png">
   <br>
   <br>
   <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=4fqwVBuunxY" style="text-decoration:none" target="_blank">🥳</a>

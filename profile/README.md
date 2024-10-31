@@ -19,10 +19,10 @@ We 💙 open source development. If you're here, chances are you do too! Contrib
 
 -----------------------------------------------------------------
 <div align="center"><div align="center">
-  <img src ="https://github.com/raptor7197/.github/blob/main/profile/image.png">
+  <img src ="https://github.com/raptor7197/.github/blob/main/profile/17124565fa09322c38c59d87a03cc2a0-2021297077.jpg">
   <br>
   <br>
-  <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=4fqwVBuunxY" style="text-decoration:none" target="_blank">🥳</a>
+  <br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch<a href="https://www.youtube.com/watch?v=4fqwVBuunxY" style="text-decoration:none target="_blank">🥳</a>
 </div>  
 
 <b>🦃 November's Nerd Fest 🚀</b>

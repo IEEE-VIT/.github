@@ -19,16 +19,8 @@ We 💙 **open source** and believe in its power to unite innovators. Sound like
 > **When you’re debugging at 3 AM and finally fix the bug, but now the UI breaks...**  
 > *“I’m not saying it’s aliens, but it’s probably aliens.”* 👽
 
-<p align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/debugging_meme.jpg" alt="Debugging Meme" width="75%" height="75%">
-</p>
-
 > **Your code during testing vs. during a live demo:**  
 > *“Why are you running?! Why are you running?!”* 🏃‍♂️💻
-
-<p align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/holiday_meme.jpg" alt="Holiday Coding Meme" width="75%" height="75%">
-</p>
 
 > **Holiday coding plans:**  
 > *“I’ll rest after this one last feature...” — Famous last words.* 🎄💻  

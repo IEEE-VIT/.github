@@ -16,10 +16,6 @@ We 💙 **open source** and believe in its power to unite innovators. Sound like
 
 ## ❄️ December Meme Drop: Laugh While You Code 😄
 
-<p align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/relatable_meme.jpg" alt="Relatable Meme" width="75%" height="75%">
-</p>
-
 > **When you’re debugging at 3 AM and finally fix the bug, but now the UI breaks...**  
 > *“I’m not saying it’s aliens, but it’s probably aliens.”* 👽
 

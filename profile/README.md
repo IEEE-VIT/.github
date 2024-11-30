@@ -23,7 +23,7 @@ We 💙 **open source** and believe in its power to unite innovators. Sound like
 > *“Why are you running?! Why are you running?!”* 🏃‍♂️💻
 
 > **Holiday coding plans:**  
-> *“I’ll rest after this one last feature...” — Famous last words.* 🎄💻  
+> *“I’ll rest after this one last feature..” — Famous last words.* 🎄💻  
 
 ---
 

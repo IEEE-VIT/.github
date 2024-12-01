@@ -14,7 +14,6 @@
 
 </p>
 <p align="center">
-
   We 💙 open source development. If you're here, chances are you do too! Contribute to our <a href="https://github.com/orgs/IEEE-VIT/repositories">projects</a>!
 </p>
 

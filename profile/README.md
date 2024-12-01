@@ -32,9 +32,9 @@
 </div>
 
 <div align="center">
-  <br>And don't forget, there are hidden Easter eggs in this README!
+  <br>And don't forget, there are hidden Easter 🥚 in this README!
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=KBYSpR8N6pc" target="_blank">🥚</a>
+  <a href="https://www.youtube.com/watch?v=KBYSpR8N6pc" target="_blank">☃️</a>
 </div>

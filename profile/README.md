@@ -1,3 +1,4 @@
+
 # This is IEEE-VIT. 🚀
 
 <p align="center">
@@ -10,9 +11,10 @@
 
 <p align="center">
   IEEE VIT is a community comprising the most persevering of student developers, designers, and managers. Our ever-growing arsenal of projects covers a range of domains and technologies, from Web Development and App Development to Machine Learning and Electronics. 
-</p>
 
+</p>
 <p align="center">
+
   We 💙 open source development. If you're here, chances are you do too! Contribute to our <a href="https://github.com/orgs/IEEE-VIT/repositories">projects</a>!
 </p>
 

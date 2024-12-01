@@ -18,7 +18,7 @@
 
 -----------------------------------------------------------------
 <div align="center">
-  <img src="https://github.com/jhwach/.github/blob/main/profile/ieeememe.jpg">
+  <img src="https://github.com/jhwach/.github/blob/main/profile/ieeemem.jpg">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch 🥳
 </div>
 

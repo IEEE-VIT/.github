@@ -1,4 +1,3 @@
-
 # This is IEEE-VIT. 🚀
 
 <p align="center">
@@ -18,24 +17,30 @@
 </p>
 
 -----------------------------------------------------------------
+
 <div align="center">
-  <img src="https://github.com/jhwach/.github/blob/main/profile/ieeemem.jpg">
-  <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch 🥳
+  <img src="https://github.com/jhwach/.github/blob/main/profile/ieeememe.png" alt="IEEE Meme" style="width: 50%; height: auto;">
+  <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 
 <div align="center">
-  <b>❄️ December's Winter Code Fest 🎄🚀</b>
+  <b>❄️ January's Frosty Innovation Fest 🧊🚀</b>
 </div>
 
 <div align="center">
-  As the cold breeze settles in and the world embraces the holiday spirit, IEEE VIT continues to stay warm with innovation! ☃️🔥
-  <br>"This December, don’t just watch technology grow—be part of it! Even your coffee machine is aiming for the next level! 🚀💻❄️"
+  As the New Year dawns upon us, IEEE VIT steps into 2025 with a passion to build, learn, and grow! 🎉✨  
+  <br>"Start this year by turning your boldest ideas into reality—because the future is what we create together! 🚀💻✨"
 </div>
 
 <div align="center">
-  <br>And don't forget, there are hidden Easter 🥚 in this README!
+  🌟 Join us in shaping 2025 with cutting-edge projects, tech workshops, and collaborative hackathons. 💡  
+  <br>Let's set the stage for innovation this January! ❄️🔧
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=KBYSpR8N6pc" target="_blank">☃️</a>
+  <br>And remember, there are hidden surprises 🥚 in this README—can you find them?
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QGJuMBdaqIw" target="_blank">🎆</a>
 </div>

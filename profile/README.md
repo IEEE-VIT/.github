@@ -24,7 +24,7 @@
 
 <div align="center">
 <br>
-<b> "February may be the shortest month, but it's packed with endless possibilities—let’s spark innovation, embrace creativity, and make every moment count! ✨🚀❄️❤️"</b></div>
+<b> February may be the shortest month, but it's packed with endless possibilities—let’s spark innovation, embrace creativity, and make every moment count! ✨🚀❄️❤️"</b></div>
 
 <div align="center">
 <br>

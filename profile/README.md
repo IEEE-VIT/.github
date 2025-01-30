@@ -18,7 +18,7 @@
 -----------------------------------------------------------------
 
 <div align="center">
-  <img src="https://github.com/jhwach/.github/blob/main/profile/feb.jpeg" alt="IEEE February Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/raptor7197/.github/blob/main/profile/feb.jpeg" alt="IEEE February Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 
@@ -26,12 +26,14 @@
 <b> "February may be the shortest month, but it's packed with endless possibilities—let’s spark innovation, embrace creativity, and make every moment count! ✨🚀❄️❤️"</b></div>
 
 <div align="center">
+<br>
   As the month of love blossoms, IEEE VIT continues its journey in 2025 with a passion to innovate, learn, and grow! ❤️✨  
   <br>"This February, let your creativity shine and turn your boldest ideas into reality—because the future is what we create together! 🚀💡💻"
 </div>
 
 <div align="center">
   🌟 February is here—bringing fresh ideas, tech breakthroughs, and endless opportunities to innovate! 💡  
+  <br>
   <br>Join us for cutting-edge projects, engaging workshops, and dynamic hackathons as we shape the future together. 🚀❄️  
 </div>
 

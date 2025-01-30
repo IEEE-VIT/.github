@@ -23,16 +23,16 @@
 </div>
 
 <div align="center">
+<br>
 <b> "February may be the shortest month, but it's packed with endless possibilities—let’s spark innovation, embrace creativity, and make every moment count! ✨🚀❄️❤️"</b></div>
 
 <div align="center">
 <br>
   As the month of love blossoms, IEEE VIT continues its journey in 2025 with a passion to innovate, learn, and grow! ❤️✨  
-  <br>"This February, let your creativity shine and turn your boldest ideas into reality—because the future is what we create together! 🚀💡💻"
+  <br>This February, let your creativity shine and turn your boldest ideas into reality—because the future is what we create together! 🚀💡💻"
 </div>
 
 <div align="center">
-  🌟 February is here—bringing fresh ideas, tech breakthroughs, and endless opportunities to innovate! 💡  
   <br>
   <br>Join us for cutting-edge projects, engaging workshops, and dynamic hackathons as we shape the future together. 🚀❄️  
 </div>
@@ -40,5 +40,5 @@
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=QGJuMBdaqIw" target="_blank">🎆</a>
+  <a href="https://www.youtube.com/watch?v=ApXoWvfEYVU" target="_blank">🎆</a>
 </div>

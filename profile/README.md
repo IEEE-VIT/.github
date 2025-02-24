@@ -24,12 +24,12 @@
 
 <div align="center">
 <br>
-<b> February may be the shortest month, but it's packed with endless possibilities—let’s spark innovation, embrace creativity, and make every moment count! ✨🚀❄️❤️ </b></div>
+<b> March is a month of transformation—let’s embrace innovation, cultivate fresh ideas, and pioneer the future with unstoppable energy! ✨🚀🌱💡</b></div>
 
 <div align="center">
-<br>
-  As the month of love blossoms, IEEE VIT continues its journey in 2025 with a passion to innovate, learn, and grow! ❤️✨  
-  <br>This February, let your creativity shine and turn your boldest ideas into reality—because the future is what we create together! 🚀💡💻
+  <br>
+As the season of renewal begins, IEEE VIT continues its journey in 2025 with a passion to innovate, learn, and grow! 🌱✨
+  <br>This March, let curiosity lead the way and turn groundbreaking ideas into reality—because the future is what we build together! 🚀💡💻
 </div>
 
 <div align="center">

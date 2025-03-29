@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/thedvlprguy/.github/blob/main/profile/ieeememe.jpg" alt="IEEE Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/thedvlprguy/.github/blob/main/profile/ieeememe.jpeg" alt="IEEE Meme" style="width: 50%; height: auto;">
   <br><br>  
   <hr>  
   Spring is in the air, and so is innovation! IEEE VIT is blooming with fresh projects in 2025! 🌷🚀  

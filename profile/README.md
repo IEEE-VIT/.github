@@ -2,20 +2,21 @@
 
 <p align="center">
   <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/IEEE%20Space.png">
-</p>
+</p>  
 
 <p align="center">
-  <b><i>IDEATE. INNOVATE. INSPIRE.</i></b>
-</p>
+  <b><i>IDEATE. INNOVATE. INSPIRE.</i></b>  
+</p>  
 
 <p align="center">
   IEEE VIT is a community comprising the most persevering of student developers, designers, and managers. Our ever-growing arsenal of projects covers a range of domains and technologies, from Web Development and App Development to Machine Learning and Electronics. 
 </p>
-<p align="center">
-  We 💙 open source development. If you're here, chances are you do too! Contribute to our <a href="https://github.com/orgs/IEEE-VIT/repositories">projects</a>!
-</p>
 
------------------------------------------------------------------
+<p align="center">
+  We 💙 open-source development. If you're here, chances are you do too! Contribute to our <a href="https://github.com/orgs/IEEE-VIT/repositories">projects</a>!  
+</p>  
+
+---
 
 <div align="center">
   <img src="https://github.com/raptor7197/.github/blob/main/profile/march1.jpg" alt="IEEE March Meme" style="width: 50%; height: auto;">

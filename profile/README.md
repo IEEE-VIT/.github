@@ -30,7 +30,7 @@
 <div align="center">
   <br>
 As the season of renewal begins, IEEE VIT continues its journey in 2025 with a passion to innovate, learn, and grow! 🌱✨
-  <br>This March, let curiosity lead the way and turn groundbreaking ideas into reality—because the future is what we build together! 🚀💡💻
+  <br>This April, let curiosity lead the way and turn groundbreaking ideas into reality—because the future is what we build together! 🚀💡💻
 </div>
 
 <div align="center">

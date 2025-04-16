@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/march1.jpg" alt="IEEE March Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/thedvlprguy/.github/blob/main/profile/ieeememe.jpeg" alt="IEEE April Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 

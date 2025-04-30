@@ -1,5 +1,5 @@
-#                                                   We are IEEE-VIT. 🚀
-
+<!-- #                                                   We are IEEE-VIT. 🚀 -->
+<h1 align = "center">We are IEEE-VIT. 🚀</h1>
 <p align="center">
   <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/IEEE%20Space.png">
 </p>

@@ -1,4 +1,4 @@
-# We are IEEE-VIT. 🚀
+#                                                   We are IEEE-VIT. 🚀
 
 <p align="center">
   <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/IEEE%20Space.png">

@@ -1,5 +1,5 @@
-# We are IEEE-VIT. 🚀
-
+<!-- #                                                   We are IEEE-VIT. 🚀 -->
+<h1 align = "center">We are IEEE-VIT. 🚀</h1>
 <p align="center">
   <img src="https://github.com/IEEE-VIT/.github/blob/main/profile/IEEE%20Space.png">
 </p>  
@@ -19,18 +19,20 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/march1.jpg" alt="IEEE March Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/raptor7197/.github/blob/main/profile/May.jpg" alt="IEEE March Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 
 <div align="center">
 <br>
-<b> April is a month of transformation—let’s embrace innovation, cultivate fresh ideas, and pioneer the future with unstoppable energy! ✨🚀🌱💡</b></div>
+<b> May is the month of renewal—where everything begins to bloom again.
+
+</b></div>
 
 <div align="center">
   <br>
-As the season of renewal begins, IEEE VIT continues its journey in 2025 with a passion to innovate, learn, and grow! 🌱✨
-  <br>This April, let curiosity lead the way and turn groundbreaking ideas into reality—because the future is what we build together! 🚀💡💻
+As the season of renewal continues, IEEE VIT strides into May 2025 with unwavering passion to innovate, learn, and grow! 🌼✨
+  <br>This May, let curiosity be our compass, transforming visionary ideas into tangible realities—because the future is ours to build together! 🚀💡💻
 </div>
 
 <div align="center">
@@ -41,5 +43,5 @@ As the season of renewal begins, IEEE VIT continues its journey in 2025 with a p
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=Jwgf3wmiA04" target="_blank">🎆</a>
+  <a href="https://www.youtube.com/watch?v=Y0U6u2D8cMU" target="_blank">🎆</a>
 </div>

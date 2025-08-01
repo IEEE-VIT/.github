@@ -28,7 +28,7 @@
 </b></div>
 
 <div align="center">
-  </div> <div align="center"> <br> As we step into August 2025, IEEE VIT continues to push boundaries with purpose and drive! 🌞⚙️ <br>This month, let creativity be our compass—turning bold ambitions into real-world impact. The journey continues, and the future is ours to shape! 🚀📘🔧 </div></div>
+  </div> <div align="center"> <br> As we step into August 2025, IEEE VIT continues to push boundaries with purpose and drive! 🌞⚙️ <br>This month, let creativity be our compass turning bold ambitions into real-world impact. The journey continues, and the future is ours to shape! 🚀📘🔧 </div></div>
 
 <div align="center">
   <br>

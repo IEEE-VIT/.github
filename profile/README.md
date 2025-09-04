@@ -18,23 +18,26 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/august.png" alt="IEEE August Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/raptor7197/.github/blob/main/profile/september.jpg" alt="IEEE September Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>August is a time of harvest—where the seeds of innovation planted throughout the year begin to bear fruit and new opportunities flourish.</b>
-</b></div>
-
-<div align="center">
-  </div> <div align="center"> <br> As we step into August 2025, IEEE VIT continues to push boundaries with purpose and drive! 🌞⚙️ <br>This month, let creativity be our compass turning bold ambitions into real-world impact. The journey continues, and the future is ours to shape! 🚀📘🔧 </div></div>
-
-<div align="center">
-  <br>
-  <br>Join us for cutting-edge projects, engaging workshops, and dynamic hackathons as we shape the future together. 🚀🌻  
+<b>September is here—when the only thing falling faster than leaves are our deadlines! 🍂😅</b>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=VuNIsY6JdUw&list=RDVuNIsY6JdUw&start_radio=1" target="_blank">🎆</a>
+  <br>
+  As we stumble into September 2025, IEEE VIT is back from vacation mode and ready to debug life (and code)! 🐞💻<br>
+  This month, let's turn coffee into code, ideas into memes, and procrastination into innovation. The grind never stops, but at least the weather's cooler! ☕🍁🚀
+</div>
+
+<div align="center">
+  <br>
+  <br>Join us for projects that are cooler than your AC, workshops that are more fun than group assignments, and hackathons where the only bugs you'll love are the plushie ones. Let's make September legendary (or at least meme-worthy)! 😂🌰💡
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ZaI2IlHwmgQ" target="_blank">🎆</a>
 </div>

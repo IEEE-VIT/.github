@@ -24,7 +24,7 @@
 
 <div align="center">
 <br>
-<b>September is here—when the only thing falling faster than leaves are our deadlines! 🍂😅</b>
+<b>September is here when the only thing falling faster than leaves are our deadlines! 🍂😅</b>
 </div>
 
 <div align="center">

@@ -29,7 +29,7 @@
 
 <div align="center">
   <br>
-  As we stumble into September 2025, IEEE VIT is back from vacation mode and ready to debug life (and code)! 🐞💻<br>
+  As we stumble into October 2025, IEEE VIT is back from vacation mode and ready to debug life (and code)! 🐞💻<br>
   This month, let's turn coffee into code, ideas into memes, and procrastination into innovation. The grind never stops, but at least the weather's cooler! ☕🍁🚀
 </div>
 

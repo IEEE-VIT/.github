@@ -18,26 +18,26 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/raptor7197/.github/blob/main/profile/september.jpg" alt="IEEE September Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/raptor7197/.github/blob/main/profile/hacktober.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>September is here when the only thing falling faster than leaves are our deadlines! 🍂😅</b>
+<b>October is here the only month where merging PRs feels spookier than Halloween! 🎃💻</b>
 </div>
 
 <div align="center">
   <br>
-  As we stumble into October 2025, IEEE VIT is back from vacation mode and ready to debug life (and code)! 🐞💻<br>
-  This month, let's turn coffee into code, ideas into memes, and procrastination into innovation. The grind never stops, but at least the weather's cooler! ☕🍁🚀
+  It's Hacktoberfest 2025, and IEEE VIT is ready to celebrate open source! 🛠️✨<br>
+  This month, let's turn bugs into features, issues into PRs, and contributions into community. Whether you're a first-timer or a seasoned dev, there's a place for you in our repos! 🚀🍂
 </div>
 
 <div align="center">
   <br>
-  <br>Join us for projects that are cooler than your AC, workshops that are more fun than group assignments, and hackathons where the only bugs you'll love are the plushie ones. Let's make September legendary (or at least meme-worthy)! 😂🌰💡
+  <br>Join us for Hacktoberfest contribute to projects across web, ML, and electronics. Look for <code>hacktoberfest</code> and <code>good first issue</code> labels, submit quality PRs, and let's make this October legendary (and open source)! 🎃💙🔥
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=ZaI2IlHwmgQ" target="_blank">🎆</a>
+  <a href="https://www.youtube.com/watch?v=u2ah9tWTkmk" target="_blank">🎆</a>
 </div>

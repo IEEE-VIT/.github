@@ -36,12 +36,13 @@
 
 <div align="center">
   <br>
-  <br>“You’ve got a good heart, contributor. But remember — the repos we love can burn us too. Fork wisely, merge bravely.” 🔥 issue</code> 
+  <br>“You’ve got a good heart, contributor. But remember, the repos we love can burn us too. Fork wisely, merge bravely.” 🔥 issue</code> 
 </div>
 <div align="center">
   <a>⚔️</a>
 </div>
 
 <div align="center">
+
   <a href="https://youtu.be/2-F7K6UZEVg?si=RbQNxFmYLdsbHyMf" target="_blank">❄️</a>
 </div>

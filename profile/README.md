@@ -43,6 +43,5 @@
 </div>
 
 <div align="center">
-  <a>⚔️</a>
   <a href="https://youtu.be/2-F7K6UZEVg?si=RbQNxFmYLdsbHyMf" target="_blank">❄️</a>
 </div>

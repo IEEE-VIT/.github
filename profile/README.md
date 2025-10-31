@@ -24,14 +24,14 @@
 
 <div align="center">
 <br>
-<b>🍂 November @ IEEE VIT is filled with Gratitude, Growth & Great Commits 🍂</b>
+<b>❄️ November @ IEEE VIT is filled with Gratitude, Growth & Great Commits 🎿</b>
 </div>
 
 <div align="center">
   <br>
-  🍂 This November, keep the momentum going 🍂<br>
+  🏂🏼 This November, keep the momentum going. 🎿<br>
   fix that bug you postponed, ship that feature you started, and collaborate on something impactful!  
-  Whether you’re polishing your first pull request or optimizing an AI pipeline, every contribution counts. 🍂
+  Whether you’re polishing your first pull request or optimizing an AI pipeline, every contribution counts. ⛷️
 </div>
 
 <div align="center">

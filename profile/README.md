@@ -30,7 +30,7 @@
 <div align="center">
   <br>
   🏂🏼 This November, keep the momentum going. 🎿<br>
-  fix that bug you postponed, ship that feature you started, and collaborate on something impactful!  
+  Fix that bug you postponed, ship that feature you started, and collaborate on something impactful!  
   Whether you’re polishing your first pull request or optimizing an AI pipeline, every contribution counts. ⛷️
 </div>
 

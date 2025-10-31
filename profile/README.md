@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src=".github-IEEE\profile\Winter-is-Coming-Memes-3.jpeg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="https://github.com/Karan1114Anand/.github-IEEE/blob/november/profile/Winter-is-Coming-Memes-3.jpeg?raw=true" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 

@@ -18,25 +18,25 @@
 ---
 
 <div align="center">
-  <img src="./WinterMeme.jpeg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./December_Meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>❄️ November @ IEEE VIT is filled with Gratitude, Growth & Great Commits 🎿</b>
+<b>🎄 December @ IEEE VIT slips in like Stranger Things, festive on the outside, upside-down levels of productivity inside. 🌌</b>
 </div>
 
 <div align="center">
   <br>
-  🏂🏼 This November, keep the momentum going. 🎿<br>
-  Fix that bug you postponed, ship that feature you started, and collaborate on something impactful!  
-  Whether you’re polishing your first pull request or optimizing an AI pipeline, every contribution counts. ⛷️
+  🎁 This December, we don’t slow down, we level up. 🎁 <br>
+  ✨ Finish that feature lurking in your backlog like a Demogorgon in the dark, refactor that code haunting your repo since mid-sem, and ship something that deserves a spot on Santa’s “Epic Commits” list. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“You’ve got a good heart, contributor. But remember, the repos we love can burn us too. Fork wisely, merge bravely.” 🔥 </code> 
+  <br>“Code is like the Upside Down, mysterious, unpredictable, and wildly fun.
+  <br>Stay brave, stay curious, and remember: even when things break… friends don’t let friends debug alone.” 🔦gt</code> 
 </div>
 <div align="center">
   <a>⚔️</a>
@@ -44,5 +44,5 @@
 
 <div align="center">
 
-  <a href="https://youtu.be/2-F7K6UZEVg?si=RbQNxFmYLdsbHyMf" target="_blank">❄️</a>
+  <a href="https://youtu.be/O5HQ1sZseKg?si=R86hSO4wfFsB5tRg&t=93" target="_blank">🎄</a>
 </div>

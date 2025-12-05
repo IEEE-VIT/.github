@@ -36,7 +36,7 @@
 <div align="center">
   <br>
   <br>“Code is like the Upside Down, mysterious, unpredictable, and wildly fun.
-  <br>Stay brave, stay curious, and remember: even when things break… friends don’t let friends debug alone.” 🔦gt</code> 
+  <br>Stay brave, stay curious, and remember: even when things break… friends don’t let friends debug alone.” 🔦</code> 
 </div>
 <div align="center">
   <a>⚔️</a>

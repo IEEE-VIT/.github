@@ -31,7 +31,7 @@
   Sharper execution, cleaner systems, and code that holds up under pressure. Less noise. More signal. Real ownership.</br>
 
   <br>August is not about doing more.</br>
-  This isn't a sprint month. It's an ownership month. 
+  This isn't a sprint month. It's an ownership month.  
   The kind where you stay on the bug past the point of curiosity, where the architecture gets questioned before it gets built, where "good enough" isn't in the vocabulary. Small, deliberate, relentless.
 </div>
 

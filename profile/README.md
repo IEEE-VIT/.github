@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  IEEE VIT is a community comprising the most persevering of student developers, designers, and managers. Our ever-growing arsenal of projects covers a range of domains and technologies, from Web Development and App Development to Machine Learning and Electronics.
+  IEEE VIT is a community comprising the most persevering of student developers, designers, and managers. Our ever growing arsenal of projects covers a range of domains and technologies, from Web Development and App Development to Machine Learning and Electronics.
 </p>
 
 <p align="center">
@@ -64,11 +64,11 @@
 
 ## Features
 
-* **Federated Learning core:** A Flower-based framework coordinates training across hospital nodes using the FedAvg aggregation strategy. Each node trains locally on its own partition of the PadChest dataset.
-* **Differential Privacy:** Opacus handles per-sample gradient clipping and noise injection before parameters are shared. Privacy budget (ε) is tracked and logged for every round.
-* **DenseNet121 transfer learning:** An ImageNet-pretrained DenseNet121 backbone is fine-tuned on chest X-ray data, with `denseblock4`, `norm5`, and `classifier` layers unfrozen for training. This allows fast convergence even with limited per-hospital data.
-* **Byzantine detection support:** Aggregation-level anomaly detection hooks flag suspicious model updates. This guards against poisoning attempts from compromised or malicious nodes.
-* **Model checkpointing:** Global model state is checkpointed round-wise. Training can be paused, audited, or resumed without loss of progress.
+* **Federated Learning core:** A Flower based framework coordinates training across hospital nodes using the FedAvg aggregation strategy. Each node trains locally on its own partition of the PadChest dataset.
+* **Differential Privacy:** Opacus handles per sample gradient clipping and noise injection before parameters are shared. Privacy budget (ε) is tracked and logged for every round.
+* **DenseNet121 transfer learning:** An ImageNet pretrained DenseNet121 backbone is fine tuned on chest X-ray data, with `denseblock4`, `norm5`, and `classifier` layers unfrozen for training. This allows fast convergence even with limited per hospital data.
+* **Byzantine detection support:** Aggregation level anomaly detection hooks flag suspicious model updates. This guards against poisoning attempts from compromised or malicious nodes.
+* **Model checkpointing:** Global model state is checkpointed round wise. Training can be paused, audited, or resumed without loss of progress.
 * **Dashboard and monitoring APIs:** A dedicated API layer exposes node status, training round progress, accuracy/loss history, privacy budget consumption, and system logs. This powers a central dashboard for the federation.
 * **Multi-label disease classification:** The global model currently classifies Pulmonary Fibrosis, Scoliosis, and Emphysema. The framework is designed to extend to additional disease labels and nodes via config.
   </br>

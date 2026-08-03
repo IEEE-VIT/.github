@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="./july.jpeg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./august.jpeg" alt="Happy August Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 <br>
@@ -45,7 +45,7 @@ From late night debugging sessions to architecture decisions that actually scale
 
 <div align='center'>
 
-  <a href="https://youtu.be/KtlgYxa6BMU?si=Pz9aFMNoOWr7031W&t=85" target="_blank">🕺🏼</a>
+  <a href="https://www.youtube.com/watch?v=ZhIsAZO5gl0" target="_blank">🐞</a>
 </div>
 
 <div align="center">
@@ -76,9 +76,9 @@ From late night debugging sessions to architecture decisions that actually scale
 </div>
 
 <div align="center">
-  <img src="./parley_lab.png" alt="ParleyLab Architecture Diagram" width="40%">
+  <img src="./fl_architecture.png" alt="FL_Powered_Medical_AI Architecture Diagram" width="60%">
   <br><br>
   <b>Architecture Overview</b>
 <br>
-End to end flow showing user input through the Next.js frontend, move parsing and state encoding via the FastAPI backend, strategic decision making by the PPO agent, opponent and critic responses generated in parallel by the LLM layer, and session state managed server side throughout.
+End to end flow showing hospital nodes (Flower clients) training locally on their own data partitions, sending model updates to the central aggregator server for FedAvg aggregation, Byzantine detection, accuracy logging, and privacy tracking, with the resulting global model state surfaced through a React dashboard interface showing accuracy curves, privacy budget gauge, node status, round progress, and live logs.
 </div>

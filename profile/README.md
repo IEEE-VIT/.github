@@ -31,8 +31,8 @@
   Sharper execution, cleaner systems, and code that holds up under pressure. Less noise. More signal. Real ownership.</br>
 
   <br>August is not about doing more.</br>
-  It is about doing it right.
-From late night debugging sessions to architecture decisions that actually scale, from thoughtful code reviews to features shipped with intention, every commit this month carries weight, purpose, and team.
+  This isn't a sprint month. It's an ownership month. 
+  The kind where you stay on the bug past the point of curiosity, where the architecture gets questioned before it gets built, where "good enough" isn't in the vocabulary. Small, deliberate, relentless.
 </div>
 
 <div align="center">

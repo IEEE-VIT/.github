@@ -52,11 +52,11 @@
  <h2>August's Project of the Month</h2>
 
   <b>
-    <a href="https://github.com/IEEE-VIT/FL_Powered_Medical_AI">FL_Powered_Medical_AI</a>
+    <a href="https://github.com/IEEE-VIT/FL_Powered_Medical_AI">FLAIM</a>
   </b>
 
   <br>
-  FL_Powered_Medical_AI is a federated learning framework that lets multiple hospitals collaboratively train a chest X-ray diagnosis model without sharing patient data. Each hospital trains locally on its own dataset and shares only model updates. These updates are combined into a global model using Federated Averaging (FedAvg). Patient images never leave the hospital where they were collected.
+  FLAIM is a federated learning framework that lets multiple hospitals collaboratively train a chest X-ray diagnosis model without sharing patient data. Each hospital trains locally on its own dataset and shares only model updates. These updates are combined into a global model using Federated Averaging (FedAvg). Patient images never leave the hospital where they were collected.
 
   The core architectural decision is the split between local computation and global knowledge: each hospital node runs its own training pipeline and differential privacy module on premises, and only noised, clipped model weights are transmitted. Raw data stays siloed while the aggregator still produces a model trained on the collective signal from every node.
   </br>

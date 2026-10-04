@@ -75,7 +75,7 @@
 </div>
 
 <div align="center">
-  <img src="./parleylab_architecture.png" alt="ParleyLab Architecture Diagram" width="60%">
+  <img src="./diagram.png" alt="ParleyLab Architecture Diagram" width="60%">
   <br><br>
   <b>Architecture Overview</b>
 <br>

@@ -18,67 +18,66 @@
 ---
 
 <div align="center">
-  <img src="./august.jpeg" alt="Happy August Meme" style="width: 50%; height: auto;">
+  <img src="./october.png" alt="Happy October Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 <br>
 <div align="center">
-  <b>August @ IEEE VIT is about depth, discipline, and building things that matter.</b>
+  <b>October @ IEEE VIT is about showing up, shipping, and getting a little braver with every pull request.</b>
 </div>
 
 <div align="center">
   <br>
-  Sharper execution, cleaner systems, and code that holds up under pressure. Less noise. More signal. Real ownership.</br>
+  The leaves are turning, and the repos are wide open. Fresh contributors, first PRs, and old projects getting a second life.</br>
 
-  <br>August is not about doing more.</br>
-  This isn't a sprint month. It's an ownership month.  
-  The kind where you stay on the bug past the point of curiosity, where the architecture gets questioned before it gets built, where "good enough" isn't in the vocabulary. Small, deliberate, relentless.
+  <br>October is not about being fearless.</br>
+  It's about doing the scary thing anyway.  
+  The kind of month where you open the issue you've been avoiding, ask the question you thought was too basic, and push the commit before it feels perfect. Spooky? A little. Worth it? Always.
 </div>
 
 <div align="center">
   <br>
-  <br>"The best engineering does not announce itself. It just works.
-  <br>Built carefully. Tested honestly. Improved relentlessly.
-  <br>Solid foundations. Clear thinking. Shared accountability.
-  <br>Because when a team builds with discipline, the work speaks for itself."
+  <br>"Every great project starts as an open issue and a little courage.
+  <br>Fork it. Break it. Fix it. Share it.
+  <br>Open doors. Open source. Open minds.
+  <br>Because the scariest code is the code that never gets written."
 </div>
 
 <div align='center'>
 
-  <a href="https://www.youtube.com/watch?v=ZhIsAZO5gl0" target="_blank">🐞</a>
+  <a href="https://www.youtube.com/watch?v=iggmiF7DNoM" target="_blank">🎃</a>
 </div>
 
 <div align="center">
- <h2>August's Project of the Month</h2>
+ <h2>October's Project of the Month</h2>
 
   <b>
-    <a href="https://github.com/IEEE-VIT/FL_Powered_Medical_AI">FLAIM</a>
+    <a href="https://github.com/IEEE-VIT/ParleyLab">ParleyLab</a>
   </b>
 
   <br>
-  FLAIM is a federated learning framework that lets multiple hospitals collaboratively train a chest X-ray diagnosis model without sharing patient data. Each hospital trains locally on its own dataset and shares only model updates. These updates are combined into a global model using Federated Averaging (FedAvg). Patient images never leave the hospital where they were collected.
+  ParleyLab is an AI powered negotiation training simulator. Users practise realistic scenarios such as salary offers, freelance contracts, apartment leases, and equity splits against an AI opponent with its own hidden goals and walk away point. After every move, an independent critic agent coaches the user in real time using established negotiation theory, so people can rehearse high stakes conversations safely and learn concepts like anchoring and BATNA by actually using them.
 
-  The core architectural decision is the split between local computation and global knowledge: each hospital node runs its own training pipeline and differential privacy module on premises, and only noised, clipped model weights are transmitted. Raw data stays siloed while the aggregator still produces a model trained on the collective signal from every node.
+  The core architectural decision is the decoupling of strategy from language: a trained PPO reinforcement learning policy decides what the opponent does (hold firm, concede, bluff, or walk away), and an LLM independently turns that decision into natural, persona specific dialogue. This keeps the opponent's behaviour principled and consistent while its conversation stays human.
   </br>
   <br>
 
 ## Features
 
-* **Federated Learning core:** A Flower based framework coordinates training across hospital nodes using the FedAvg aggregation strategy. Each node trains locally on its own partition of the PadChest dataset.
-* **Differential Privacy:** Opacus handles per sample gradient clipping and noise injection before parameters are shared. Privacy budget (ε) is tracked and logged for every round.
-* **DenseNet121 transfer learning:** An ImageNet pretrained DenseNet121 backbone is fine tuned on chest X-ray data, with `denseblock4`, `norm5`, and `classifier` layers unfrozen for training. This allows fast convergence even with limited per hospital data.
-* **Byzantine detection support:** Aggregation level anomaly detection hooks flag suspicious model updates. This guards against poisoning attempts from compromised or malicious nodes.
-* **Model checkpointing:** Global model state is checkpointed round wise. Training can be paused, audited, or resumed without loss of progress.
-* **Dashboard and monitoring APIs:** A dedicated API layer exposes node status, training round progress, accuracy/loss history, privacy budget consumption, and system logs. This powers a central dashboard for the federation.
-* **Multi-label disease classification:** The global model currently classifies Pulmonary Fibrosis, Scoliosis, and Emphysema. The framework is designed to extend to additional disease labels and nodes via config.
+* **RL driven opponent:** A Stable Baselines3 PPO agent, trained for 1M timesteps, picks one of five strategic actions every turn: hold firm, concede small, concede large, bluff, or walk away. The opponent follows a learned policy, not a script.
+* **Strategy decoupled from language:** The RL policy decides what to do and the LLM decides how to say it. Strategy stays consistent while dialogue stays natural.
+* **Real time critic feedback:** After every move, a critic agent returns structured feedback with strengths, weaknesses, an actionable suggestion, and a concept tag such as anchoring, concession pacing, or BATNA signalling.
+* **Hidden state enforcement:** The opponent's target, BATNA, and persona are held server side and never sent to the client. They are revealed only at the end, alongside a score that blends outcome quality and move quality.
+* **Plug and play scenarios:** Four built in scenarios ship as JSON files, with values randomised by ±15% per session and multi currency support. Adding a new scenario needs no code changes.
+* **Pluggable, free LLM backends:** Gemini, Groq, and local Ollama are supported through a single router with template fallbacks. Opponent and critic calls run in parallel, cutting per turn latency by 3 to 5 seconds.
   </br>
 
 </div>
 
 <div align="center">
-  <img src="./fl_architecture.png" alt="FL_Powered_Medical_AI Architecture Diagram" width="60%">
+  <img src="./parleylab_architecture.png" alt="ParleyLab Architecture Diagram" width="60%">
   <br><br>
   <b>Architecture Overview</b>
 <br>
-End to end flow showing hospital nodes (Flower clients) training locally on their own data partitions, sending model updates to the central aggregator server for FedAvg aggregation, Byzantine detection, accuracy logging, and privacy tracking, with the resulting global model state surfaced through a React dashboard interface showing accuracy curves, privacy budget gauge, node status, round progress, and live logs.
+A Next.js frontend sends each negotiation move to a FastAPI backend, where an orchestrator runs a six stage turn pipeline. An LLM move parser converts the user's message into a structured move, which updates a 7 dimensional observation vector that the PPO policy uses to pick the opponent's strategic action in under a millisecond on CPU. The opponent agent, which voices that action, and the critic agent, which grades the user's move, then run in parallel through a shared LLM router (Gemini, Groq, or Ollama). Session state, including the opponent's hidden goals, lives in an in memory store and is exposed only through the end of session reveal and scoring.
 </div>

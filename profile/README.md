@@ -28,7 +28,7 @@
 
 <div align="center">
   <br>
-  Sharper execution, cleaner systems, and code that holds up under pressure. Less noise. More signal. Real ownership.</br>
+  The leaves are turning, and the repos are wide open. Fresh contributors, first PRs, and old projects getting a second life.</br>
 
   <br>September is not about doing more.</br>
   This isn't a sprint month. It's an ownership month.  
@@ -37,10 +37,10 @@
 
 <div align="center">
   <br>
-  <br>"The best engineering does not announce itself. It just works.
-  <br>Built carefully. Tested honestly. Improved relentlessly.
-  <br>Solid foundations. Clear thinking. Shared accountability.
-  <br>Because when a team builds with discipline, the work speaks for itself."
+  <br>"Every great project starts as an open issue and a little courage.
+  <br>Fork it. Break it. Fix it. Share it.
+  <br>Open doors. Open source. Open minds.
+  <br>Because the scariest code is the code that never gets written."
 </div>
 
 <div align='center'>

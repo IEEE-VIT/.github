@@ -18,21 +18,21 @@
 ---
 
 <div align="center">
-  <img src="./september.png" alt="Happy September Meme" style="width: 50%; height: auto;">
+  <img src="./october.png" alt="Happy October Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 <br>
 <div align="center">
-  <b>September @ IEEE VIT is about depth, discipline, and building things that matter.</b>
+  <b>October @ IEEE VIT is about showing up, shipping, and getting a little braver with every pull request.</b>
 </div>
 
 <div align="center">
   <br>
   The leaves are turning, and the repos are wide open. Fresh contributors, first PRs, and old projects getting a second life.</br>
 
-  <br>September is not about doing more.</br>
-  This isn't a sprint month. It's an ownership month.  
-  The kind where you stay on the bug past the point of curiosity, where the architecture gets questioned before it gets built, where "good enough" isn't in the vocabulary. Small, deliberate, relentless.
+  <br>October is not about being fearless.</br>
+  It's about doing the scary thing anyway.  
+  The kind of month where you open the issue you've been avoiding, ask the question you thought was too basic, and push the commit before it feels perfect. Spooky? A little. Worth it? Always.
 </div>
 
 <div align="center">
@@ -45,53 +45,39 @@
 
 <div align='center'>
 
-  <a href="https://youtu.be/F-6OLCvO7MA?si=M3tgj-xOAYacya0e" target="_blank">🐞</a>
+  <a href="https://www.youtube.com/watch?v=iggmiF7DNoM" target="_blank">🎃</a>
 </div>
 
 <div align="center">
- <h2>September's Project of the Month</h2>
+ <h2>October's Project of the Month</h2>
 
   <b>
-    <a href="https://github.com/IEEE-VIT/FL_Powered_Medical_AI">ProofStamp</a>
+    <a href="https://github.com/IEEE-VIT/ParleyLab">ParleyLab</a>
   </b>
 
- <br>
+  <br>
+  ParleyLab is an AI powered negotiation training simulator. Users practise realistic scenarios such as salary offers, freelance contracts, apartment leases, and equity splits against an AI opponent with its own hidden goals and walk away point. After every move, an independent critic agent coaches the user in real time using established negotiation theory, so people can rehearse high stakes conversations safely and learn concepts like anchoring and BATNA by actually using them.
 
-ProofStamp is a legal-tech platform that gives Indian content creators verifiable proof of ownership for their digital work. Creators can upload photographs, illustrations, documents, scripts, audio, video, and other digital files and receive a cryptographically secured Proof Passport. The platform combines identity binding, SHA-256 hashing, RSA signatures, trusted timestamps, invisible watermarking, blockchain anchoring, and digital evidence generation to establish the existence, integrity, and ownership context of a work while keeping the original content private.
-
-</div>
-
-<br>
+  The core architectural decision is the decoupling of strategy from language: a trained PPO reinforcement learning policy decides what the opponent does (hold firm, concede, bluff, or walk away), and an LLM independently turns that decision into natural, persona specific dialogue. This keeps the opponent's behaviour principled and consistent while its conversation stays human.
+  </br>
+  <br>
 
 ## Features
 
-- **Proof Passport & Identity:** Creates a unique Proof Passport linked to a verified creator identity and RSA-2048 keypair, allowing every registered work to be securely associated with its creator.
+* **RL driven opponent:** A Stable Baselines3 PPO agent, trained for 1M timesteps, picks one of five strategic actions every turn: hold firm, concede small, concede large, bluff, or walk away. The opponent follows a learned policy, not a script.
+* **Strategy decoupled from language:** The RL policy decides what to do and the LLM decides how to say it. Strategy stays consistent while dialogue stays natural.
+* **Real time critic feedback:** After every move, a critic agent returns structured feedback with strengths, weaknesses, an actionable suggestion, and a concept tag such as anchoring, concession pacing, or BATNA signalling.
+* **Hidden state enforcement:** The opponent's target, BATNA, and persona are held server side and never sent to the client. They are revealed only at the end, alongside a score that blends outcome quality and move quality.
+* **Plug and play scenarios:** Four built in scenarios ship as JSON files, with values randomised by ±15% per session and multi currency support. Adding a new scenario needs no code changes.
+* **Pluggable, free LLM backends:** Gemini, Groq, and local Ollama are supported through a single router with template fallbacks. Opponent and critic calls run in parallel, cutting per turn latency by 3 to 5 seconds.
+  </br>
 
-- **Cryptographic Proof & Timestamping:** Generates SHA-256 fingerprints and RSA signatures for uploaded files and adds RFC 3161 timestamps to establish the integrity and existence of the exact digital work.
-
-- **Legal Evidence Generation:** Produces structured evidence and certificates aligned with the BSA 2023 Section 63 workflow, along with litigation-ready evidence packets and creator attestations.
-
-- **Invisible Watermarking & Similarity Detection:** Uses DWT-DCT invisible watermarking and perceptual hashing to help identify protected content even when copies are resized, compressed, or modified.
-
-- **Blockchain Anchoring & Audit Trail:** Anchors cryptographic proofs to the Bitcoin blockchain and maintains a traceable record of timestamps, verification events, and proof-chain information.
-
-- **Content Monitoring & Enforcement:** Detects potential unauthorized copies of registered content and assists creators by compiling infringement evidence and generating takedown packages for review.
-
-- **Multi-Format Protection:** Supports a wide range of creative work including images, illustrations, documents, scripts, audio, video, and other digital content.
-</br>
-
-<h2 align="center">
-
-<div align="center">
-  <img src="image.png" alt="ProofStamp Architecture Diagram" width="60%">
 </div>
 
-<br><br>
-
-<b>Architecture Overview</b>
-
+<div align="center">
+  <img src="./diagram.png" alt="ParleyLab Architecture Diagram" width="60%">
+  <br><br>
+  <b>Architecture Overview</b>
 <br>
-
-ProofStamp follows a modular microservice architecture where the React + Vite client provides the user interface and communicates with the Node.js + Express API layer. The API manages authentication, proof registration, verification workflows, database operations, and communication with external services. PostgreSQL stores users, assets, proof records, and verification data through Prisma, while the Python FastAPI steganography service handles computationally intensive operations such as image watermarking and forensic processing. Docker isolates the services and provides a consistent deployment environment. During registration, an uploaded file moves through hashing, identity signing, timestamping, optional watermarking, and proof-chain generation before the resulting evidence is stored and presented to the creator through the frontend.
-
+A Next.js frontend sends each negotiation move to a FastAPI backend, where an orchestrator runs a six stage turn pipeline. An LLM move parser converts the user's message into a structured move, which updates a 7 dimensional observation vector that the PPO policy uses to pick the opponent's strategic action in under a millisecond on CPU. The opponent agent, which voices that action, and the critic agent, which grades the user's move, then run in parallel through a shared LLM router (Gemini, Groq, or Ollama). Session state, including the opponent's hidden goals, lives in an in memory store and is exposed only through the end of session reveal and scoring.
 </div>
